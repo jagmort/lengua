@@ -188,3 +188,45 @@ body {
     margin-bottom: 21px;
     right: 64px;
 }
+
+.features-4-container .smart-typography {
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 86px;
+    width: 730px;
+}
+.features-4-container .smart-typography h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height, or 125% */
+    
+    text-align: center;
+    letter-spacing: -1.2px;
+    
+    color: #13385A;
+    margin-bottom: 20px;
+}
+.features-4-container .smart-typography p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    
+    text-align: center;
+    letter-spacing: -0.3px;
+    
+    /* 2. On Surface / 200 */
+    
+    color: #585757;
+}
+.features-4-container .features-4 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 46px;
+    width: 1226px;
+    padding-left: 51px;
+}
