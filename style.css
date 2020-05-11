@@ -393,12 +393,12 @@ body {
 
 .footer-container {
     height: 60px;
+    background: #F7F7F7;
 }
 .footer-container .wrapper {
     width: 1400px;
     margin-left: auto;
     margin-right: auto;
-    background: #F7F7F7;
 }
 .footer-container .copyright {
     display: inline-block;
