@@ -230,3 +230,25 @@ body {
     width: 1226px;
     padding-left: 51px;
 }
+
+.clients-container h1 {
+    padding-left: 144px;
+    padding-top: 93px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #13385A;
+}
+.clients-container .brands {
+    margin-left: 144px;
+    margin-bottom: 70px;
+    width: 1362px;
+    height: 112px;
+}
+.clients-container .brands img {
+    vertical-align: middle;
+    margin-right: 70px;
+}
