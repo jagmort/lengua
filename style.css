@@ -424,12 +424,9 @@ body {
     margin-left: 20px;
 }
 .map-container {
-    
+    width: 100%;
 }
 .map-container .wrapper {
-    width: 1400px;
-    margin-left: auto;
-    margin-right: auto;
     position: relative;
 }
 .map-container iframe {
