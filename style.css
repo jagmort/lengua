@@ -256,7 +256,7 @@ body {
 .clients-container .brands {
     margin-left: 144px;
     margin-bottom: 70px;
-    width: 1362px;
+    /*width: 1362px;*/
     height: 112px;
 }
 .clients-container .brands img {
@@ -410,4 +410,8 @@ color: #969696;
     display: inline-block;
     vertical-align: middle;
     margin-left: 20px;
+}
+
+div {
+    border: 1px black solid;
 }
