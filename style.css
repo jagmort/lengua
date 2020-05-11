@@ -47,7 +47,6 @@ body {
     top: 295px;
 }
 .hero-header-container .heading-combinations h1 {
-    font-family: Inter;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -59,7 +58,6 @@ body {
 }
 .hero-header-container .heading-combinations p {
     margin-top: 20px;
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -83,13 +81,10 @@ body {
     width: 100px;
 }
 .nav-items li a {
-    font-family: Inter;
     font-style: normal;
     font-weight: 600;
     font-size: 15px;
     line-height: 22px;
-    /* or 147% */
-    
     display: flex;
     align-items: center;
     text-align: center;
@@ -105,31 +100,21 @@ body {
     margin-right: auto;
 }
 .features-3-container .heading-combinations h1 {
-    font-family: Inter;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
     line-height: 60px;
-    /* or 125% */
-
     text-align: center;
     letter-spacing: -1.2px;
-
     color: #13385A;
 }
 .features-3-container .heading-combinations p {
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
     line-height: 30px;
-    /* or 150% */
-
     text-align: center;
     letter-spacing: -0.3px;
-
-    /* 2. Black / 200 */
-
     color: #585757;
     margin-top: 20px;
 }
@@ -152,35 +137,54 @@ body {
 
 .features-3-block h1 {
     margin-left: 10px;
-    font-family: Inter;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 32px;
-    /* identical to box height, or 133% */
-
     letter-spacing: -0.2px;
-
     color: #13385A;
     padding-bottom: 10px;
 }
 .features-3-block p, li {
     margin-left: 10px;
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 22px;
-    /* or 147% */
-
     letter-spacing: -0.2px;
-
-    /* 2. On Surface / 200 */
-
     color: #585757;
     padding-bottom: 10px;
 }
 .features-3-block ul {
     margin-left: 0;
     padding-inline-start: 1.1em;
+}
+
+.features-2-container .smart-typography {
+    margin-top: 158px;
+    margin-left: 163px;
+    width: 572px;
+}
+.features-2-container .smart-typography h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -1.2px;
+    color: #13385A;
+    margin-bottom: 20px;
+}
+.features-2-container .smart-typography p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.3px;
+    color: #585757;
+}
+.features-2 {
+    margin-top: -415px;
+    margin-left: 495px;
+    margin-bottom: 21px;
+    right: 64px;
 }
