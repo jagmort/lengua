@@ -324,7 +324,7 @@ body {
     border-bottom: #DBDBDB 1px solid;
     text-align: center;
 }
-h1 {
+.translators-container h1 {
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
