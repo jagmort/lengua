@@ -349,6 +349,8 @@ body {
     margin-bottom: 30px;
 }
 .translators-container .person img {
+    width: 143px;
+    height: 157px;
     border-radius: 50%;
 }
 .translators-container .person h2 {
