@@ -208,4 +208,27 @@
 <path d="M699.72 49.89L702.68 55.47" stroke="#13385A" stroke-width="2.03" stroke-miterlimit="10"/>
 <path d="M724.55 79.17L726.75 78C726.852 77.946 726.964 77.9127 727.079 77.9021C727.195 77.8915 727.311 77.9037 727.421 77.9381C727.532 77.9724 727.635 78.0283 727.724 78.1024C727.812 78.1765 727.886 78.2674 727.94 78.37L731.64 85.37C731.749 85.5756 731.773 85.8163 731.706 86.0394C731.638 86.2625 731.485 86.4497 731.28 86.56L707.77 99.11C707.564 99.2198 707.323 99.2436 707.1 99.1761C706.877 99.1086 706.69 98.9554 706.58 98.75L702.87 91.75C702.763 91.5427 702.742 91.3019 702.812 91.0794C702.881 90.8569 703.034 90.6704 703.24 90.56L705.62 89.28L724.55 79.17Z" stroke="#13385A" stroke-width="2.03" stroke-miterlimit="10"/>
 </g>
+<defs>
+<clipPath id="clip0">
+<rect y="10" width="104.83" height="87.61" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect x="140" y="8" width="104.49" height="98.33" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect x="245" width="99.32" height="106.48" fill="white"/>
+</clipPath>
+<clipPath id="clip3">
+<rect x="345" y="4" width="98.42" height="102.35" fill="white"/>
+</clipPath>
+<clipPath id="clip4">
+<rect x="444" y="2" width="98.22" height="104.47" fill="white"/>
+</clipPath>
+<clipPath id="clip5">
+<rect x="543" y="14" width="96.55" height="92.63" fill="white"/>
+</clipPath>
+<clipPath id="clip6">
+<rect x="640" y="5" width="96.55" height="101.09" fill="white"/>
+</clipPath>
+</defs>
 </svg>
