@@ -131,6 +131,15 @@ body {
     margin-right: auto;
     text-align: center;
 }
+.features-3-block .image {
+    height: 131px;
+    vertical-align: bottom;
+    display: table-cell;
+}
+.features-3-block img {
+    display: block;
+    margin: 10px 10px;
+}
 .features-3-block {
     display: inline-block;
     width: 270px;
@@ -324,7 +333,7 @@ body {
 }
 .steps-container .blocks .arrow {
     width: 32px;
-    margin-top: 40px;
+    margin-top: 28px;
 }
 .steps-container .blocks .capacity p {
     font-style: normal;
