@@ -420,7 +420,6 @@ body {
 }
 .footer-container .social {
     float: right;
-    display: inline-block;
     margin-right: 147px;
     margin-top: 18px;
     font-style: normal;
