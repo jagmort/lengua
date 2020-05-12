@@ -171,7 +171,7 @@ body {
     border-bottom: #DBDBDB 1px solid;
 }
 .features-2-container .wrapper {
-    width: 1400px;
+    min-width: 1280px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -253,7 +253,7 @@ body {
     border-bottom: #DBDBDB 1px solid;
 }
 .clients-container .wrapper {
-    width: 1400px;
+    min-width: 1280px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -403,7 +403,7 @@ body {
     border-top: #DBDBDB 1px solid;
 }
 .footer-container .wrapper {
-    width: 1400px;
+    min-width: 1280px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -420,7 +420,7 @@ body {
 }
 .footer-container .social {
     float: right;
-    margin-right: 147px;
+    margin-right: 145px;
     margin-top: 18px;
     font-style: normal;
 }
