@@ -392,6 +392,7 @@ body {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1vw;
 }
 .footer-container .copyright {
     display: inline-block;
@@ -430,25 +431,24 @@ body {
     position: absolute;
     top: 1%;
     left: 2%;
-    height: 204px;
+    height: 30%;
     width: 90%;
-    padding: 8% 10%;
+    padding: 5% 5% 5% 5%;
     background-color: #FFFFFF;
     vertical-align: top;
 }
 .map-container .address h1 {
     font-style: normal;
     font-weight: bold;
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: -0.3px;
+    font-size: 100%;
+    line-height: 130%;
     color: #585757;
+    margin-top: 0;
 }
 .map-container .address p {
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: -0.3px;
+    font-size: 100%;
+    line-height: 130%;
     color: #585757;
 }
