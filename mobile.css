@@ -16,7 +16,7 @@ body {
     position: relative;
     display:inline-block;
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     padding-top: 56.25%;
     display: block;
     margin-left: auto;
@@ -264,30 +264,11 @@ body {
     height: 60vw;
     width: 70%;
 }
-.clients-container .brands img {
-    width: 100%;
-}
-.slide {
+.clients-container .brands .slide {
     display: none;
 }
-.slide:first-of-type {
-    display: block;
-}
-.fade {
-    -webkit-animation-name: fade;
-    -webkit-animation-duration: 1.5s;
-    animation-name: fade;
-    animation-duration: 1.5s;
-}
-  
-@-webkit-keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
-}
-  
-@keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
+.clients-container .brands .slide img {
+    width: 100%;
 }
 
 .steps-container {
