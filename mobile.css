@@ -260,14 +260,33 @@ body {
     margin-bottom: 6vw;
 }
 .clients-container .brands {
-    margin-bottom: 20%;
+    margin-bottom: 10%;
 }
 .clients-container .brands img {
-    vertical-align: middle;
+    vertical-align: top;
     width: 35%;
+    height: 15vw;
     margin-right: 20%;
     margin-left: 20%;
-    margin-bottom: 6vw;
+}
+.slide {
+    display: none;
+}
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+  
+@-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+  
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
 }
 
 .steps-container {
