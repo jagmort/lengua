@@ -6,6 +6,8 @@ function detectmob() {
     }
  }
  
- if (detectmob()){
-    top.location.href="https://lengua.ai/mobile.html";
- }
+window.addEventListener('load', (event) => {
+    if (detectmob()){
+        top.location.href="https://lengua.ai/mobile.html";
+     }
+});
