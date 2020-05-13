@@ -13,6 +13,17 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="alternate" media="only screen and (max-width: 800px)" href="https://lengua.ai/mobile.html">
+    <script src="detect.js"></script>
+    <script>
+        try {
+            // This is the URL where mobile
+            detectmobile.defaultMobileURL = "https://lengua.ai/mobile.html";
+            detectmobile.process();
+        } catch(e) {
+            // Make sure that in the fault modes
+            // we do not interrupt execution of other Javascript code
+        }
+    </script>
 </head>
 <body>
     <div class="hero-header-container">
