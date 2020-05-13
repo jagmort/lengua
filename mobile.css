@@ -154,84 +154,82 @@ body {
 }
 .features-3-block ul {
     margin-left: 0;
-    padding-inline-start: 1.1em;
     list-style: none;
 }
-/*
+
 .features-2-container {
     border-bottom: #DBDBDB 1px solid;
 }
 .features-2-container .wrapper {
-    min-width: 1280px;
+    width: 85%;
     margin-left: auto;
     margin-right: auto;
 }
 .features-2-container .smart-typography {
-    margin-top: 158px;
-    margin-left: 163px;
-    width: 572px;
+    margin-top: 6vw;
+    padding-right: 20%;
+    width: 100%;
 }
 .features-2-container .smart-typography h1 {
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 60px;
-    letter-spacing: -1.2px;
+    font-size: 180%;
+    line-height: 130%;
     color: #13385A;
-    margin-bottom: 20px;
+    margin-bottom: 6vw;
 }
 .features-2-container .smart-typography p {
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: -0.3px;
+    font-size: 100%;
+    line-height: 130%;
     color: #585757;
 }
 .features-2 {
-    margin-top: -415px;
-    margin-left: 495px;
-    margin-bottom: 21px;
-    right: 64px;
+    margin-top: -95%;
+    margin-left: -20%;
+    margin-bottom: 6vw;
+    right: 0;
+}
+.features-2 img {
+    width: 130%;
 }
 
 .features-4-container {
     border-bottom: #DBDBDB 1px solid;
 }
 .features-4-container .smart-typography {
-    margin-top: 45px;
+    margin-top: 6vw;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 86px;
-    width: 730px;
+    margin-bottom: 15%;
+    width: 85%;
 }
 .features-4-container .smart-typography h1 {
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: -1.2px;
+    font-size: 180%;
+    line-height: 130%;
     color: #13385A;
-    margin-bottom: 20px;
+    margin-bottom: 6vw;
 }
 .features-4-container .smart-typography p {
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 100%;
+    line-height: 130%;
     text-align: center;
-    letter-spacing: -0.3px;
     color: #585757;
 }
 .features-4-container .features-4 {
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 46px;
-    width: 1226px;
-    padding-left: 51px;
+    margin-bottom: 15%;
 }
-
+.features-4-container .features-4 img {
+    width:80%;
+}
+/*
 .clients-container {
     border-bottom: #DBDBDB 1px solid;
 }
