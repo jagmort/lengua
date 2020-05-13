@@ -1,3 +1,3 @@
 if (screen.width <= 1280) {
-    document.location = "mobile.html";
+    document.location = "https://lengua.ai/mobile.html";
 }
