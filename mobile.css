@@ -258,63 +258,63 @@ body {
     margin-left: 20%;
     margin-bottom: 6vw;
 }
-/*
+
 .steps-container {
     border-bottom: #DBDBDB 1px solid;
 }
 .steps-container .smart-typography {
-    width: 730px;
-    margin-top: 110px;
+    width: 85%;
+    margin-top: 16%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 51px;
+    margin-bottom: 16%;
 }
 .steps-container .smart-typography h1 {
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 60px;
+    font-size: 180%;
+    line-height: 130%;
     text-align: center;
-    letter-spacing: -1.2px;
     color: #13385A;
-    margin-bottom: 20px;
+    margin-bottom: 6vw;
 }
 .steps-container .smart-typography p {
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 100%;
+    line-height: 130%;
     text-align: center;
-    letter-spacing: -0.3px;
     color: #585757;
 }
 .steps-container .blocks {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-bottom: 138px;
+    margin-bottom: 25%;
+    text-align: center;
 }
 .steps-container .blocks div {
-    display: inline-block;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
 }
 .steps-container .blocks .capacity {
     width: 350px;
     vertical-align: top;
 }
 .steps-container .blocks .arrow {
-    width: 32px;
-    margin-top: 40px;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
 }
 .steps-container .blocks .capacity p {
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
-    line-height: 22px;
+    font-size: 100%;
+    line-height: 130%;
     text-align: center;
-    letter-spacing: -0.2px;
     color: #585757;
 }
-
+/*
 .translators-container {
     border-bottom: #DBDBDB 1px solid;
     text-align: center;
