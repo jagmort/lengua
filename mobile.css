@@ -229,36 +229,36 @@ body {
 .features-4-container .features-4 img {
     width:80%;
 }
-/*
+
 .clients-container {
     border-bottom: #DBDBDB 1px solid;
 }
 .clients-container .wrapper {
-    min-width: 1280px;
+    min-width: 85%;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    margin-top: 20%;
 }
 .clients-container h1 {
-    padding-left: 144px;
-    padding-top: 93px;
     font-style: normal;
-    font-weight: normal;
-    font-size: 13px;
-    line-height: 14px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 180%;
+    line-height: 130%;
     color: #13385A;
+    margin-bottom: 6vw;
 }
 .clients-container .brands {
-    margin-left: 144px;
-    margin-bottom: 70px;
-    height: 112px;
+    margin-bottom: 20%;
 }
 .clients-container .brands img {
     vertical-align: middle;
-    margin-right: 70px;
+    width: 35%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 6vw;
 }
-
+/*
 .steps-container {
     border-bottom: #DBDBDB 1px solid;
 }
