@@ -13,7 +13,3 @@ var slideIndex = 1;
 window.onload = function() {
     showSlides(slideIndex);
 }
-
-getElementsByClassName("brands").addEventListener('touchstart', function(ev) {
-    showSlides(slideIndex += 1)
-}, false);
