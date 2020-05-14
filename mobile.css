@@ -26,6 +26,9 @@ body {
     background-size: cover;
     padding-bottom: 10%;
 }
+.video {
+    display: none;
+}
 .logo img {
     width: 40%;
     margin-left: 25%;
@@ -56,14 +59,10 @@ body {
     text-align: center;
     color: #E6E4E4;
 }
-/*
 .nav-items {
-    position: absolute;
-    width: 500px;
-    right: 1%;
-    top: 14%;
-    list-style-type: none;
+    display: none;
 }
+/*
 .nav-items li {
     display: inline-block;
     width: 100px;
@@ -143,7 +142,7 @@ body {
 }
 
 .features-2-container {
-    background-image: url("mobile/features2.svg");
+    background-image: url("/img/mobile-features2.svg");
     background-position-x: center;
     background-position-y: bottom;
     background-repeat: no-repeat;
@@ -177,13 +176,7 @@ body {
     color: #585757;
 }
 .features-2 {
-    margin-top: -95%;
-    margin-left: -20%;
-    margin-bottom: 6vw;
-    right: 0;
-}
-.features-2 img {
-    width: 130%;
+    display: none;
 }
 
 .features-4-container {
@@ -223,6 +216,8 @@ body {
     margin-bottom: 15%;
 }
 .features-4-container .features-4 img {
+    background-image: url(/img/mobile-features4.svg);
+    background-size: cover;
     width:80%;
 }
 
@@ -254,7 +249,7 @@ body {
 .clients-container .brands .slide {
     display: none;
 }
-.clients-container .brands .slide img {
+.clients-container .brands img {
     width: 100%;
 }
 
@@ -304,6 +299,9 @@ body {
 .steps-container .blocks .arrow {
     margin-top: 6vw;
     margin-bottom: 6vw;
+}
+.steps-container .blocks .arrow img {
+    transform: rotate(90deg);
 }
 .steps-container .blocks .capacity p {
     font-style: normal;

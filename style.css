@@ -173,7 +173,8 @@ body {
 }
 .features-3-block ul {
     margin-left: 0;
-    padding-inline-start: 1.1em;
+    padding-inline-start: 0;
+    list-style: none;
 }
 
 .features-2-container {
@@ -257,7 +258,11 @@ body {
     width: 1226px;
     padding-left: 51px;
 }
-
+.features-4-container .features-4 img {
+    background: url(img/features4.svg) no-repeat;
+    width: 1175px;
+    height: 662px;
+}
 .clients-container {
     border-bottom: #DBDBDB 1px solid;
 }
