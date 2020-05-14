@@ -15,16 +15,17 @@
     <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
-    <div class="hero-header-container">
+    <div class="hero-header-container" id="top">
         <div class="wrapper">
             <div class="video">
                 <video class="video-background" no-controls autoplay loop preload="auto" src="img/net.mov"></video>
             </div>
             <header>
-                <nav role="navigation">
-                    <div class="logo">
-                        <img src="img/lengua-logo-dark.svg" alt="Lengua" />
-                    </div>
+                <div class="menu">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
                     <ul class="nav-items">
                         <li>
                             <a href="#approach">Approach</a>
@@ -39,7 +40,10 @@
                             <a href="#contacts">Contacts</a>
                         </li>
                     </ul>
-                </nav>
+                </div>
+                <div class="logo">
+                    <img src="img/lengua-logo-dark.svg" alt="Lengua" />
+                </div>
                 <div class="heading-combinations">
                     <h1>Professional translation enhanced by AI</h1>
                     <p>Advanced translation process with a unique proprietary Natural Languages Processing AI and Translation Memory databases. For the most demanding clients in knowledge-intensive industries.</p>
@@ -210,5 +214,6 @@
            </div>
        </div>
     </div>
+    <div class="up"><a href="#top"><img src="/img/right-arrow.svg" /></a></div>
 </body>
 </html>

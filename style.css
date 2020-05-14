@@ -74,6 +74,16 @@ body {
     letter-spacing: -0.3px;
     color: #E6E4E4;
 }
+.up {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    transform: rotate(-90deg);
+    opacity: 0.5;
+}
+.menu input,span {
+    display: none;
+}
 .nav-items {
     position: absolute;
     width: 500px;
