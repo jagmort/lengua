@@ -1,6 +1,8 @@
 var slideIndex = 1;
 window.onload = function() {
-    showSlides();
+    if (document.documentElement.clientWidth < 900) {
+        showSlides();
+    }
 }
 
 function showSlides() {
